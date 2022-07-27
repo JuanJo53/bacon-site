@@ -1,0 +1,32 @@
+h1 {
+	color: blueviolet;
+	background-color: gold;
+	font-size: 150px;
+}
+
+.bacon {
+	background-color: aqua;
+}
+p:hover {
+	font-size: large;
+}
+img:hover {
+	background-color: aquamarine;
+}
+.circular {
+	border-radius: 100%;
+}
+
+.burger {
+	width: 100px;
+	height: 100px;
+	background-color: bisque;
+}
+
+.burger:hover {
+	background-color: brown;
+	width: 200px;
+	height: 200px;
+	transition-duration: 3s;
+	border-radius: 0%;
+}
